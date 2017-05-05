@@ -1,0 +1,3 @@
+[submodule "deps/previous"]
+	path = deps/previous
+	url = git@github.com:kuzzleio/documentation.git
